@@ -13,7 +13,7 @@ module.exports = {
 
   // open graph metadata (optional)
   description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  socialImageTitle: 'Yemi Jegede',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
@@ -31,7 +31,7 @@ module.exports = {
   imageCDNHost: null,
 
   // Utteranc.es comments via GitHub issue comments (optional)
-  utterancesGitHubRepo: null,
+  utterancesGitHubRepo: 'OluyemiJ/nextjs-notion-starter-kit',
 
   // whether or not to enable support for LQIP preview images (optional)
   // NOTE: this requires you to set up Google Firebase and add the environment
