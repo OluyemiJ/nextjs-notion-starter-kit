@@ -57,12 +57,12 @@ const Equation = dynamic(() =>
   import('react-notion-x').then((notion) => notion.Equation)
 )
 
-const Tweet = dynamic(
-  () => import('react-notion-x').then((notion) => notion.Tweet),
-  {
-    ssr: false
-  }
-)
+// const Tweet = dynamic(
+//  () => import('react-notion-x').then((notion) => notion.Tweet),
+//  {
+//    ssr: false
+//  }
+//)
 
 const Modal = dynamic(
   () => import('react-notion-x').then((notion) => notion.Modal),
