@@ -58,9 +58,18 @@ const Equation = dynamic(() =>
   import('react-notion-x').then((notion) => notion.Equation)
 )
 
+<<<<<<< HEAD
 // we're now using a much lighter-weight tweet renderer react-static-tweets
 // instead of the official iframe-based embed widget from twitter
 // const Tweet = dynamic(() => import('react-tweet-embed'))
+=======
+const Tweet = dynamic(
+  () => import('react-notion-x').then((notion) => notion.Tweet),
+  {
+    ssr: false
+  }
+)
+>>>>>>> updated notion utils, types, client and notion-x
 
 const Modal = dynamic(
   () => import('react-notion-x').then((notion) => notion.Modal),

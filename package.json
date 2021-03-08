@@ -32,7 +32,6 @@
     "fathom-client": "^3.0.0",
     "got": "^11.8.2",
     "isomorphic-unfetch": "^3.1.0",
-<<<<<<< HEAD
     "lqip-modern": "^1.2.0",
     "next": "^10.2.0",
     "node-fetch": "^2.6.1",
@@ -40,30 +39,20 @@
     "notion-types": "^4.3.0",
     "notion-utils": "^4.5.2",
 =======
-    "lqip-modern": "^1.1.3",
-    "next": "^10.0.6",
-    "notion-client": "^4.3.2",
-    "notion-types": "^4.2.17",
-    "notion-utils": "^4.2.17",
->>>>>>> updated react-notion-x and notion-client
+    "notion-client": "4.3.2",
+    "notion-types": "4.3.0",
+    "notion-utils": "4.3.0",
+>>>>>>> updated notion utils, types, client and notion-x
     "p-map": "^4.0.0",
     "p-memoize": "^4.0.0",
     "react": "^17.0.2",
     "react-body-classname": "^1.3.1",
-<<<<<<< HEAD
     "react-dom": "^17.0.2",
     "react-icons": "^4.2.0",
     "react-notion-x": "^4.5.2",
     "react-static-tweets": "^0.5.3",
     "react-use": "^17.2.4",
     "static-tweets": "^0.5.3",
-=======
-    "react-dom": "17.0.1",
-    "react-icons": "^4.1.0",
-    "react-katex": "^2.0.2",
-    "react-notion-x": "^4.3.2",
-    "react-use": "^15.3.3",
->>>>>>> updated react-notion-x and notion-client
     "use-dark-mode": "^2.3.1"
   },
   "devDependencies": {
