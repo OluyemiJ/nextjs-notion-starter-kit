@@ -3304,7 +3304,7 @@
   "resolved" "https://registry.npmjs.org/normalize-url/-/normalize-url-4.5.0.tgz"
   "version" "4.5.0"
 
-"notion-client@^4.3.2":
+"notion-client@4.3.2":
   "integrity" "sha512-RkX8FwwOh+o6UOaaFSpGhvf+CngcUi4ua3pxJD+0ph76bWvb9XU0hLSWN1fMlkqd3f5YedRoFrMbXsvfbgHZ3g=="
   "resolved" "https://registry.npmjs.org/notion-client/-/notion-client-4.3.2.tgz"
   "version" "4.3.2"
@@ -3314,12 +3314,12 @@
     "notion-utils" "^4.3.0"
     "p-map" "^4.0.0"
 
-"notion-types@^4.2.17", "notion-types@^4.3.0":
+"notion-types@^4.3.0", "notion-types@4.3.0":
   "integrity" "sha512-WAvrwmGCVMJI75mAssH7/ve1NVxkhyMmaVJbYp9b7+tbKs6MGYccbGPfR4QFLYcG9wGY3F4PQmlA3vjo4MSyhQ=="
   "resolved" "https://registry.npmjs.org/notion-types/-/notion-types-4.3.0.tgz"
   "version" "4.3.0"
 
-"notion-utils@^4.2.17", "notion-utils@^4.3.0":
+"notion-utils@^4.3.0", "notion-utils@4.3.0":
   "integrity" "sha512-gl5baxZJHt0SfG66bbP9eBoxRVAtxMTLcVlP1WtDtSVnB4Ye0edR/AfpRObZy08O/PGyMAV1kXN5cqxFdNRBwQ=="
   "resolved" "https://registry.npmjs.org/notion-utils/-/notion-utils-4.3.0.tgz"
   "version" "4.3.0"
@@ -4124,7 +4124,7 @@
     "react-lifecycles-compat" "^3.0.0"
     "warning" "^4.0.3"
 
-"react-notion-x@^4.3.2":
+"react-notion-x@4.3.3":
   "integrity" "sha512-ifJVgsnArzATUC/nv0MCEXoMuh2rhDGJF88XnX+bprkKSMTcbUz5HfUPVc+xy/SGThmvMIJf0tywoLx9SWQYhQ=="
   "resolved" "https://registry.npmjs.org/react-notion-x/-/react-notion-x-4.3.3.tgz"
   "version" "4.3.3"
