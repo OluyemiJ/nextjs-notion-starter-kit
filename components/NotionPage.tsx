@@ -64,7 +64,7 @@ const Equation = dynamic(() =>
 // const Tweet = dynamic(() => import('react-tweet-embed'))
 =======
 const Tweet = dynamic(
-  () => import('react-notion-x').then((notion) => notion.tweet),
+  () => import('react-notion-x').then((notion) => notion.Tweet),
   {
     ssr: false
   }
