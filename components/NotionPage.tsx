@@ -63,13 +63,8 @@ const Equation = dynamic(() =>
 // instead of the official iframe-based embed widget from twitter
 // const Tweet = dynamic(() => import('react-tweet-embed'))
 =======
-const Tweet = dynamic(
-  () => import('react-notion-x').then((notion) => notion.Tweet),
-  {
-    ssr: false
-  }
-)
->>>>>>> updated notion utils, types, client and notion-x
+const Tweet = dynamic(() => import('react-notion-x').then((notion) => notion.Tweet))
+>>>>>>> removed ssr:false
 
 const Modal = dynamic(
   () => import('react-notion-x').then((notion) => notion.Modal),
