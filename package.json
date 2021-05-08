@@ -38,6 +38,7 @@
     "notion-client": "^4.5.2",
     "notion-types": "^4.3.0",
     "notion-utils": "^4.5.2",
+    "react-katex": "^2.0.2",
     "p-map": "^4.0.0",
     "p-memoize": "^4.0.0",
     "react": "^17.0.2",
