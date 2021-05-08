@@ -38,13 +38,11 @@
     "notion-client": "^4.5.2",
     "notion-types": "^4.3.0",
     "notion-utils": "^4.5.2",
-=======
     "lqip-modern": "^1.1.3",
     "next": "^10.0.6",
     "notion-client": "^4.3.2",
     "notion-types": "^4.3.0",
     "notion-utils": "^4.3.0",
->>>>>>> node 14
     "p-map": "^4.0.0",
     "p-memoize": "^4.0.0",
     "react": "^17.0.2",
